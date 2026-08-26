@@ -1,0 +1,14 @@
+com\chatmate\api\dto\ChatRequest.class
+com\chatmate\api\dto\HealthResponse.class
+com\chatmate\api\ChatMateClient.class
+com\chatmate\api\dto\SynthesizeResponse.class
+com\chatmate\api\config\ApiConfig$Builder.class
+com\chatmate\api\service\InferenceService.class
+com\chatmate\api\dto\ChatResponse.class
+com\chatmate\api\config\ApiConfig.class
+com\chatmate\api\dto\TranscribeResponse.class
+com\chatmate\api\exception\ChatMateApiException.class
+com\chatmate\api\dto\ChatMessage.class
+com\chatmate\api\dto\TranscribeRequest.class
+com\chatmate\api\dto\SynthesizeRequest.class
+com\chatmate\api\service\LlmService.class

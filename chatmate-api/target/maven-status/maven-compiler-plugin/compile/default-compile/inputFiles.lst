@@ -1,0 +1,13 @@
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\ChatMateClient.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\config\ApiConfig.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\ChatMessage.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\ChatRequest.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\ChatResponse.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\HealthResponse.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\SynthesizeRequest.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\SynthesizeResponse.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\TranscribeRequest.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\dto\TranscribeResponse.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\exception\ChatMateApiException.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\service\InferenceService.java
+D:\develop\chatmate\chatmate-api\src\main\java\com\chatmate\api\service\LlmService.java
